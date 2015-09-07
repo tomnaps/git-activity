@@ -167,3 +167,8 @@ _Are we doing this in reverse alphabetical order?_
 	* GitHub: emmet0r
 	* Email: emme@soe.ucsc.edu
 	* IRC: emme
+
+* Tom Naps, University of Wisconsin Oshkosh
+        * GitHub: tomnaps
+        * Email: naps@uwosh.edu
+        * URC: tom_n
